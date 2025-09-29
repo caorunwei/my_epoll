@@ -1,3 +1,0 @@
-D:/codes/Epoll/MyEpoll/build/CMakeFiles/my_epoll_server.dir
-D:/codes/Epoll/MyEpoll/build/CMakeFiles/ALL_BUILD.dir
-D:/codes/Epoll/MyEpoll/build/CMakeFiles/ZERO_CHECK.dir
