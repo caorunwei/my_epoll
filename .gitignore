@@ -1,0 +1,18 @@
+# 编译产物
+*.obj
+*.exe
+*.out
+*.app
+*.so
+*.dll
+
+# 编译目录
+build/
+cmake-build-*/
+bin/
+
+# IDE 配置
+.idea/
+.vscode/
+*.sln
+*.vcxproj
